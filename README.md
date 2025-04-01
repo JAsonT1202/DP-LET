@@ -53,4 +53,4 @@ DP-LET is a novel deep learning framework for accurate and efficient **spatio-te
 
 ---
 
-🧩 Tip: All baseline experiments follow the standardized structure of [Time-Series-Library]([https://github.com/your-org/time-series-lib](https://github.com/thuml/Time-Series-Library.git)) for fair and consistent evaluation.
+🧩 Tip: All baseline experiments follow the standardized structure of [Time-Series-Library] ([https://github.com/thuml/Time-Series-Library.git])) for fair and consistent evaluation.
