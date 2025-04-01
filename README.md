@@ -40,13 +40,3 @@ DP-LET is a novel deep learning framework for accurate and efficient **spatio-te
 | Autoformer    | 0.429      | 0.506      | 0.443       | 0.513       |
 | Informer      | 0.653      | 0.615      | 0.749       | 0.654       |
 
-
-## 📌 Citation
-
-```bibtex
-@article{DPLET2025,
-  title={DP-LET: An Efficient Spatio-Temporal Network Traffic Prediction Framework},
-  author={Xintong Wang},
-  journal={GLOBECOM 2025 (Under Review)},
-  year={2025}
-}
