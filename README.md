@@ -25,3 +25,17 @@ DP-LET is a novel deep learning framework for accurate and efficient **spatio-te
 
 ## 🏗️ Architecture Overview
 
+![DP-LET Architecture](./ours.png)
+---
+
+## 📊 Performance (Milan CDR Dataset)
+
+| Model         | MSE (T=72) | MAE (T=72) | MSE (T=144) | MAE (T=144) |
+|---------------|------------|------------|-------------|-------------|
+| **DP-LET**    | **0.225**  | **0.324**  | **0.238**   | **0.333**   |
+| TimeMixer     | 0.230      | 0.329      | 0.255       | 0.347       |
+| PatchTST      | 0.234      | 0.337      | 0.249       | 0.350       |
+| iTransformer  | 0.237      | 0.333      | 0.256       | 0.346       |
+| FEDformer     | 0.387      | 0.468      | 0.408       | 0.485       |
+| Autoformer    | 0.429      | 0.506      | 0.443       | 0.513       |
+| Informer      | 0.653      | 0.615      | 0.749       | 0.654       |
