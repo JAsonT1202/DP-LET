@@ -11,7 +11,7 @@ DP-LET is a novel deep learning framework for accurate and efficient **spatio-te
 - 📉 **TSVDR-Based Preprocessing**  
   Removes noise and decouples spatial dependencies with minimal memory usage.
 
-- 🧠 **Local Feature Enhancement (TCN)**  
+- 🧠 **Local Feature Enhancement**  
   Extracts fine-grained temporal features using multi-branch Temporal Convolutional Networks.
 
 - 🔁 **Transformer Prediction**  
