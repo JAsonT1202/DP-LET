@@ -27,7 +27,7 @@ DP-LET is a novel deep learning framework for accurate and efficient **spatio-te
 ![DP-LET Architecture](./ours.png)
 ---
 
-## 📊 Performance (Milan CDR Dataset)
+## 📊 Performance
 
 | Model         | MSE (T=72) | MAE (T=72) | MSE (T=144) | MAE (T=144) |
 |---------------|------------|------------|-------------|-------------|
@@ -39,3 +39,26 @@ DP-LET is a novel deep learning framework for accurate and efficient **spatio-te
 | Autoformer    | 0.429      | 0.506      | 0.443       | 0.513       |
 | Informer      | 0.653      | 0.615      | 0.749       | 0.654       |
 
+## How to Use
+
+1. Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+2. Download and place the dataset in the following directory:
+    ```
+    ./data/MILAN
+    ```
+    > The dataset is the Milan CDR dataset provided by Telecom Italia https://doi.org/10.7910/DVN/EGZHFV
+
+3. Modify the YAML configuration file to set hyperparameters
+
+4. Run the main script to start training or inference:
+    ```bash
+    python run.py
+    ```
+
+---
+
+🧩 Tip: 
