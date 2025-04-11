@@ -12,19 +12,19 @@ Refer to the figure below (`overall.jpg`) for an overview of the DP-LET framewor
 
 ## Usage
 
-### 1. Create and activate a virtual environment
+1. Create and activate a virtual environment
 ```bash
 conda create -n DP-LET python=3.8
 conda activate DP-LET
 ```
 
-### 2. Install dependencies
+2. Install dependencies
 ```bash
 cd framework
 pip install -r requirements.txt
 ```
 
-### 3. Prepare the dataset
+3. Prepare the dataset
 
 Download the **Telecom Italia Milan Internet Traffic Dataset** from:  
 [https://doi.org/10.7910/DVN/EGZHFV](https://doi.org/10.7910/DVN/EGZHFV)
@@ -37,7 +37,7 @@ For example:
 MILAN/Milan_Internet_100_10min.csv
 ```
 
-### 4. Run the training script
+4. Run the training script
 ```bash
 python run.py
 ```
