@@ -1,7 +1,6 @@
 # DP-LET
 
-Official implementation for the paper:  
-📄 [DP-LET: An Efficient Spatio-Temporal Network Traffic Prediction Framework](https://arxiv.org/abs/2504.03792)
+Official implementation for the paper:  [DP-LET: An Efficient Spatio-Temporal Network Traffic Prediction Framework](https://arxiv.org/abs/2504.03792)
 
 ---
 
