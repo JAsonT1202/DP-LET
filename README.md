@@ -20,7 +20,7 @@ conda activate DP-LET
 
 ### 2. Install dependencies
 ```bash
-cd framework
+cd DP-LET/framework
 pip install -r requirements.txt
 ```
 
