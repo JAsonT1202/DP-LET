@@ -57,7 +57,7 @@ A case study on real-world cellular traffic prediction demonstrates the practica
 Compared to baseline models, **DP-LET significantly reduces MSE by 31.8% and MAE by 23.1%**, highlighting its superior predictive capability.
 
 <div align="center">
-  <img src="para.jpg" alt="para" width="500"/>
+  <img src="para.jpg" alt="para" width="450"/>
 </div>
 
 
