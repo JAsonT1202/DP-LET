@@ -54,7 +54,7 @@ python run.py
 ![result](result.jpg)
 
 A case study on real-world cellular traffic prediction demonstrates the practicality of DP-LET, which maintains low computational complexity while achieving state-of-the-art performance.
-Compared to baseline models, **DP-LET significantly reduces MSE by 31.8% and MAE by 23.1%**, highlighting its superior predictive capability.
+Compared to baseline models, DP-LET significantly reduces MSE by **31.8%** and MAE by **23.1%**, highlighting its superior predictive capability.
 
 <div align="center">
   <img src="para.jpg" alt="para" width="450"/>
