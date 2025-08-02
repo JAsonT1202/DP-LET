@@ -3,6 +3,11 @@
 Official implementation for the paper:  [DP-LET: An Efficient Spatio-Temporal Network Traffic Prediction Framework](https://arxiv.org/abs/2504.03792)
 
 ---
+## Updates/News:
+
+🚩 News (Aug. 2025): DP-LET has been accepted by IEEE Global Communications Conference 2025 ! 
+
+---
 
 ## Overall Architecture
 
