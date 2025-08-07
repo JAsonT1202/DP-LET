@@ -5,7 +5,7 @@ Official implementation for the paper:  [DP-LET: An Efficient Spatio-Temporal Ne
 ---
 ## Updates/News:
 
-🚩 News (Aug. 2025): DP-LET has been accepted by IEEE Global Communications Conference 2025 ! 
+🚩 News (Aug. 2025): DP-LET has been accepted by IEEE Global Communications Conference 2025 ! 　
 
 ---
 
