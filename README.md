@@ -46,6 +46,7 @@ For example:
 ```
 framework/data/MILAN/Milan_Internet_100_10min.csv
 ```
+For reproducibility, we provide the exact subset of cell IDs used in our experiments in `cell_id.txt`. Using these IDs, users can reconstruct the dataset split consistent with our experimental setup.
 
 #### 4. Run the training script
 ```bash
