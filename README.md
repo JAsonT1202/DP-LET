@@ -74,14 +74,15 @@ In contrast to other Transformer-based approaches, DP-LET maintains competitive 
 ## Citation
 
 ```bibtex
-@misc{wang2025dpletefficientspatiotemporalnetwork,
-      title={DP-LET: An Efficient Spatio-Temporal Network Traffic Prediction Framework}, 
-      author={Xintong Wang and Haihan Nan and Ruidong Li and Huaming Wu},
-      year={2025},
-      eprint={2504.03792},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2504.03792}, 
-}
+@INPROCEEDINGS{11432477,
+  author={Wang, Xintong and Nan, Haihan and Li, Ruidong and Wu, Huaming},
+  booktitle={GLOBECOM 2025 - 2025 IEEE Global Communications Conference}, 
+  title={DP-LET : An Efficient Spatio-Temporal Network Traffic Prediction Framework}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={5671-5676},
+  keywords={Accuracy;Computational modeling;Noise reduction;Telecommunication traffic;Computer architecture;Predictive models;Transformers;Data processing;Feature extraction;Computational complexity;Traffic Prediction;Deep Learning;Transformer;Performance Evaluation},
+  doi={10.1109/GLOBECOM59602.2025.11432477}}
 ```
 
